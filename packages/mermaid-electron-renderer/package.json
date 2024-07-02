@@ -19,7 +19,7 @@
     "license": "Apache 2.0",
     "devDependencies": {},
     "dependencies": {
-        "@electron/remote": "^2.0.9",
+        "@electron/remote": "^2.1.2",
         "mermaid": "^10.2.3",
         "@markdown-confluence/lib": "5.5.2"
     },
